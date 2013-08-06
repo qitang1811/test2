@@ -10,10 +10,15 @@ def pow(num, e):
 		base *= num
 	return base
 
+def add(a ,b):
+	return a+b
+
+
 def main():
 	num = 2
 	e = 2
 	print pow(num, e)
+	print add(num ,e)
 
 if __name__=="__main__":
 	main()
