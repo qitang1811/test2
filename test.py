@@ -12,9 +12,7 @@ def pow(num, e):
 
 def add(a ,b):
 	"""
-	this the the adding function
-	"""
-	return a+b
+	
 
 def minus(a,b):
 	return a-b
