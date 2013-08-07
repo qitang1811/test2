@@ -11,8 +11,8 @@ def pow(num, e):
 	return base
 
 def add(a ,b):
-	"""
 	
+	""""""
 
 def minus(a,b):
 	return a-b
