@@ -11,6 +11,9 @@ def pow(num, e):
 	return base
 
 def add(a ,b):
+	"""
+	this the the adding function
+	"""
 	return a+b
 
 def minus(a,b):
