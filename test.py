@@ -20,6 +20,7 @@ def minus(a,b):
 	return a-b
 
 def main():
+	"main function"
 	num = 2
 	e = 2
 	print pow(num, e)
